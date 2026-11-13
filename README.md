@@ -17,7 +17,7 @@ AI Researcher working on Scientific Machine Learning, Physics-Informed Neural Ne
 
 ### 1. Hybrid MFO–BOA for Nonlinear PDEs
 
-**MSc Thesis** — Damghan University (2026)
+**M.Sc. Thesis** — Damghan University (2026)
 
 Solving Nonlinear Partial Differential Equations Using the Hybrid Moth-Flame and Butterfly Metaheuristic Algorithm and Its Applications in Engineering Problems.
 
@@ -65,3 +65,4 @@ Member of IAENG, Societies of Artificial Intelligence and Computer Science.
 
 - [LinkedIn](https://www.linkedin.com/in/reza-sangari-abiz)
 - [ORCID](https://orcid.org/0009-0001-8662-9218)
+- [Hugging Face](https://huggingface.co/datasets/reza-sangari/lrw-persian-full)
