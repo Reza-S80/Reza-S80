@@ -59,3 +59,15 @@ Preprint/code: to be added when available.
 ## GitHub Projects
 
 - [MFO-BOA-PDE-Solver](https://github.com/Reza-S80/MFO-BOA-PDE-Solver)
+
+## Professional Membership
+
+Member of IAENG, Societies of Artificial Intelligence and Computer Science.
+
+**Member ID:** 588946.
+
+## Links
+
+- [LinkedIn](https://www.linkedin.com/in/reza-sangari-abiz)
+- [ORCID](https://orcid.org/0009-0001-8662-9218)
+- [Hugging Face](https://huggingface.co/datasets/reza-sangari/lrw-persian-full)
