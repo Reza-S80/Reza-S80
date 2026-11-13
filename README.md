@@ -36,7 +36,7 @@ Current work on physics-informed neural networks tuned using a hybrid MFO–BOA 
 
 **Dataset:** LRW-Persian — 743 words and 414,278 clips.
 
-**Best run so far:** 35.31% TEST Top-1 (paper record: 41.09%).
+**Best run so far:** 35.31% TEST Top-1 (paper record: 41.09%). The paper's model was fine-tuned from a pretrained model, while this run trains from random initialization.
 
 **Dataset:** [LRW-Persian on Hugging Face](https://huggingface.co/datasets/reza-sangari/lrw-persian-full)
 
