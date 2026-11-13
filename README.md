@@ -70,4 +70,4 @@ Member of IAENG, Societies of Artificial Intelligence and Computer Science.
 
 - [LinkedIn](https://www.linkedin.com/in/reza-sangari-abiz)
 - [ORCID](https://orcid.org/0009-0001-8662-9218)
-- [Hugging Face](https://huggingface.co/datasets/reza-sangari/lrw-persian-full)
+- [LRW-Persian dataset on Hugging Face](https://huggingface.co/datasets/reza-sangari/lrw-persian-full)
