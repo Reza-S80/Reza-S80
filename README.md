@@ -32,6 +32,8 @@ Current work on physics-informed neural networks tuned using a hybrid MFO–BOA 
 
 **Manuscript:** In preparation for MedLife 2027, First International Interdisciplinary Sciences Congress, Tehran.
 
+Code: repository in preparation — PINN implementation to follow.
+
 ### 3. Persian Lip-Reading
 
 **Dataset:** LRW-Persian — 743 words and 414,278 clips.
@@ -52,18 +54,8 @@ Generative AI and Political Cognition of Iranian Users: Political Trust, Critica
 
 Manuscript in preparation.
 
+Preprint/code: to be added when available.
+
 ## GitHub Projects
 
 - [MFO-BOA-PDE-Solver](https://github.com/Reza-S80/MFO-BOA-PDE-Solver)
-
-## Professional Membership
-
-Member of IAENG, Societies of Artificial Intelligence and Computer Science.
-
-**Member ID:** 588946.
-
-## Links
-
-- [LinkedIn](https://www.linkedin.com/in/reza-sangari-abiz)
-- [ORCID](https://orcid.org/0009-0001-8662-9218)
-- [Hugging Face](https://huggingface.co/datasets/reza-sangari/lrw-persian-full)
