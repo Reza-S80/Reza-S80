@@ -22,6 +22,7 @@ AI Researcher working on Scientific Machine Learning, Physics-Informed Neural Ne
 Solving Nonlinear Partial Differential Equations Using the Hybrid Moth-Flame and Butterfly Metaheuristic Algorithm and Its Applications in Engineering Problems.
 
 The hybrid optimizer outperformed standalone MFO by 62% and BOA by 69% in Burgers' equation RMSE. Wilcoxon tests: p = 0.003 versus MFO and p = 0.001 versus BOA.
+Mean RMSE (Burgers' equation, 30 runs): Hybrid MFO–BOA 2.8e-4; standalone MFO 7.3e-4; standalone BOA 9.1e-4.
 
 **Code:** [MFO-BOA-PDE-Solver](https://github.com/Reza-S80/MFO-BOA-PDE-Solver)
 
