@@ -1,14 +1,67 @@
-### Reza Sangari Abiz
+# Reza Sangari Abiz
 
-AI researcher working on scientific machine learning and metaheuristic optimization. M.Sc. in Soft Computing & AI, Damghan University (2026, Excellent, GPA 17.49/20); B.Sc. in Computer Science, Birjand University of Technology.
+AI Researcher working on Scientific Machine Learning, Physics-Informed Neural Networks (PINNs), Soft Computing, and Metaheuristic Optimization.
 
-**Current work**
-- **PINNs + MFO–BOA for stiff reaction–diffusion systems** — physics-informed neural networks tuned by a hybrid moth-flame / butterfly optimizer; paper in preparation for MedLife 2027 (First International Interdisciplinary Sciences Congress, Tehran).
-- **MSc thesis** — *Solving Nonlinear Partial Differential Equations Using the Hybrid Moth-Flame and Butterfly Metaheuristic Algorithm and Its Applications in Engineering Problems* (Damghan University, 2026). Code: [MFO-BOA-PDE-Solver](https://github.com/Reza-S80/MFO-BOA-PDE-Solver).
-- **Persian lip-reading** — LRW-Persian, 743 words, 414,278 clips; best run so far 35.31% TEST Top-1 (paper record 41.09%).
-- **Review article** — *Artificial Intelligence and Machine Learning in Nanotechnology* (NCWNN7, submitted Oct 2026).
-- **Review article** — *Generative AI and Political Cognition of Iranian Users: Political Trust, Critical Thinking, and News Resharing* (in preparation).
+**M.Sc. in Soft Computing & Artificial Intelligence** — Damghan University (2026, Excellent, GPA 17.49/20).
 
-Member of the International Association of Engineers (IAENG), Societies of Artificial Intelligence and Computer Science (member 588946).
+**B.Sc. in Computer Science** — Birjand University of Technology.
 
-[LinkedIn](https://www.linkedin.com/in/reza-sangari-abiz) · [ORCID](https://orcid.org/0009-0001-8662-9218)
+## Research Interests
+
+- Scientific Machine Learning and Physics-Informed Neural Networks (PINNs)
+- Numerical methods for nonlinear partial differential equations
+- Metaheuristic optimization: Moth-Flame Optimization (MFO), Butterfly Optimization Algorithm (BOA), and hybrid optimization
+- AI applications in computer vision and interdisciplinary research
+
+## Featured Research
+
+### 1. Hybrid MFO–BOA for Nonlinear PDEs
+
+**MSc Thesis** — Damghan University (2026)
+
+Solving Nonlinear Partial Differential Equations Using the Hybrid Moth-Flame and Butterfly Metaheuristic Algorithm and Its Applications in Engineering Problems.
+
+The hybrid optimizer outperformed standalone MFO by 62% and BOA by 69% in Burgers' equation RMSE. Wilcoxon tests: p = 0.003 versus MFO and p = 0.001 versus BOA.
+
+**Code:** [MFO-BOA-PDE-Solver](https://github.com/Reza-S80/MFO-BOA-PDE-Solver)
+
+### 2. PINNs for Stiff Reaction–Diffusion Systems
+
+Current work on physics-informed neural networks tuned using a hybrid MFO–BOA optimizer.
+
+**Manuscript:** In preparation for MedLife 2027, First International Interdisciplinary Sciences Congress, Tehran.
+
+### 3. Persian Lip-Reading
+
+**Dataset:** LRW-Persian — 743 words and 414,278 clips.
+
+**Best run so far:** 35.31% TEST Top-1 (paper record: 41.09%).
+
+**Dataset:** [LRW-Persian on Hugging Face](https://huggingface.co/datasets/reza-sangari/lrw-persian-full)
+
+### 4. AI and Nanotechnology
+
+Artificial Intelligence and Machine Learning in Nanotechnology.
+
+NCWNN7 review article — Submitted October 2026.
+
+### 5. Generative AI and Political Cognition
+
+Generative AI and Political Cognition of Iranian Users: Political Trust, Critical Thinking, and News Resharing.
+
+Manuscript in preparation.
+
+## GitHub Projects
+
+- [MFO-BOA-PDE-Solver](https://github.com/Reza-S80/MFO-BOA-PDE-Solver)
+
+## Professional Membership
+
+Member of IAENG, Societies of Artificial Intelligence and Computer Science.
+
+**Member ID:** 588946.
+
+## Links
+
+- [LinkedIn](https://www.linkedin.com/in/reza-sangari-abiz)
+- [ORCID](https://orcid.org/0009-0001-8662-9218)
